@@ -32,7 +32,14 @@ sentinel-watchdog/
 ├── snapshots/
 └── docs/
 
----
+
+
+
+
+
+
+
+
 
 ## ⚙️ Implemented Features
 
