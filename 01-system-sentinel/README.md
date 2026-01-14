@@ -35,13 +35,7 @@ sentinel-watchdog/
 
 
 
-
-
-
-
-
-
-## ⚙️ Implemented Features
+# ⚙️ Implemented Features
 
 ✔ Config-driven behavior  
 ✔ Lock file to prevent duplicate runs  
