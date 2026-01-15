@@ -8,7 +8,7 @@ The focus is operational thinking — not just commands.
 
 ---
 
-## 🎯 Goals
+## Goals
 - Monitor system health signals
 - Log incidents safely
 - Apply controlled recovery actions
@@ -23,7 +23,7 @@ or via cron to inspect system and security conditions.
 
 ---
 
-## 📁 Structure
+##  Structure
 
 sentinel-watchdog/
 ├── sentinel-watchdog.sh
@@ -48,7 +48,7 @@ sentinel-watchdog/
 
 ---
 
-## 🧠 Planned / Design-Only Ideas
+## Planned / Design-Only Ideas
 
 - Advanced alerting (email / Slack)
 - Predictive disk usage analysis
@@ -59,7 +59,7 @@ These are documented **as design concepts only**.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 cd sentinel-watchdog
