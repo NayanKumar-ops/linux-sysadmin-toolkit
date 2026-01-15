@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Sentinel-Watchdog v1.0
 # Created by: NayanKumar-ops
 
