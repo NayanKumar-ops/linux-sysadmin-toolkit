@@ -1,4 +1,4 @@
-# Sentinel-Watchdog – Design Notes
+## Sentinel-Watchdog – Design Notes
 
 This document captures future improvement ideas and architectural reasoning.
 Features listed here are **not implemented in v1.0** and are planned for later iterations.
