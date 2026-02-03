@@ -1,4 +1,4 @@
-# 01 – System Sentinel
+## 01 – System Sentinel
 
 System Sentinel is a Linux monitoring project designed to practice
 how system administrators **observe, log, and respond** to common
