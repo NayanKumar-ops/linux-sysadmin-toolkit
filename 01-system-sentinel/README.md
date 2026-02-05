@@ -61,6 +61,6 @@ These are documented **as design concepts only**.
 
 ## How to Run
 
-```bash
+bash
 cd sentinel-watchdog
 bash sentinel-watchdog.sh
