@@ -1,2 +1,2 @@
 ## Linux-SysAdmin-Toolki
-2 dayc
+2 day
