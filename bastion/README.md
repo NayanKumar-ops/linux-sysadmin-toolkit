@@ -9,3 +9,4 @@ Security auditing and hardening tools for Rocky Linux.
 Run:
 
 sudo ./bastion/bastion-audit.sh
+#
