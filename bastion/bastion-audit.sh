@@ -292,7 +292,7 @@ SUMMARY="
   │  Reports saved to: ${REPORT_DIR}
   │    ├── bastion_report_${TIMESTAMP}.txt
   │    └── bastion_report_${TIMESTAMP}.csv
-  └─────────────────────────────────────────────────┘"
+  └─────────────────────────────────────────────────┘
 
 echo -e "${GRADE_COLOR}${SUMMARY}${RESET}"
 echo "$SUMMARY" >> "$REPORT_TXT"
