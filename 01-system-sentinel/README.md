@@ -63,4 +63,4 @@ These are documented **as design concepts only**.
 
 bash
 cd sentinel-watchdog
-bash sentinel-watchdog.sh
+bash sentinel-watchdog.sh *
