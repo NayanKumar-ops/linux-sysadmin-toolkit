@@ -4,7 +4,7 @@ A collection of shell-based tools for Linux system monitoring, security auditing
 
 
 
-## Tool
+## Tools
 
 ## 01-system-sentinel
 A Linux monitoring tool designed to observe, log, and respond to common system issues the way a real sysadmin would. Focuses on building practical visibility into system health and behavior.
