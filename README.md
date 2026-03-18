@@ -42,7 +42,7 @@ bash bastion-audit.sh
 
 I am a self-taught Linux sysadmin working toward RHCSA. I built these tools to go beyond reading documentation — to actually practice what production sysadmin work looks like. Everything here runs on a real Rocky Linux minimal environment, not a simulator.
 
----
+--
 
 ## Author
 
