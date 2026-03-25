@@ -1,52 +1,58 @@
-# Linux-SysAdmin-Toolkit
+# linux-sysadmin-toolkit
 
-A collection of shell-based tools for Linux system monitoring, security auditing, and hardening — built and tested on Rocky Linux (minimal, no GUI).
+Shell-based tools for Linux system monitoring, security auditing, and hardening.
+Built and tested on Rocky Linux (minimal install, no GUI) — real environment, not a simulator.
 
-
+---
 
 ## Tools
 
-## 01-system-sentinel
-A Linux monitoring tool designed to observe, log, and respond to common system issues the way a real sysadmin would. Focuses on building practical visibility into system health and behavior.
+### 01-system-sentinel
+A production-style Linux monitoring tool that observes, logs, and responds to common system issues the way an actual sysadmin would. Focuses on building real visibility into system health and behavior.
 
-### bastion
-Security auditing and hardening scripts for Rocky Linux bastion hosts. Includes `bastion-audit.sh` for running structured security checks against a live system.
+### bastion/
+Security auditing and hardening scripts for Rocky Linux bastion hosts.
+
+| Script | Description |
+|---|---|
+| `bastion-audit.sh` | Runs structured CIS Benchmark-aligned security checks against a live system. Weighted scoring with dual TXT/CSV output. |
 
 ---
 
 ## Environment
 
-- OS: Rocky Linux (minimal install, no GUI)
-- Shell: Bash
-- All tools are designed for headless, terminal-only environments
+| Detail | Value |
+|---|---|
+| OS | Rocky Linux (minimal, no GUI) |
+| Shell | Bash |
+| Target | Headless, terminal-only environments |
 
 ---
 
 ## Usage
 
-**Run system-sentinel:**
+**System Sentinel**
 ```bash
 cd 01-system-sentinel
 bash sentinel.sh
 ```
 
-**Run bastion audit:**
+**Bastion Audit**
 ```bash
 cd bastion
 bash bastion-audit.sh
 ```
 
----
+
 
 ## Why I Built This
 
-I am a self-taught Linux sysadmin working toward RHCSA. I built these tools to go beyond reading documentation — to actually practice what production sysadmin work looks like. Everything here runs on a real Rocky Linux minimal environment, not a simulator.
+I'm self-teaching Linux sysadmin work toward the RHCSA. I built these tools because reading documentation only gets you so far — I wanted to actually practice what production sysadmin work looks like. Every script here runs on a real Rocky Linux minimal environment.
 
---
+More tools in progress. Watch this space.
+
+---
 
 ## Author
 
-**NayanKumar-ops**  
-
-
-new tools coming soon it is in progress stay tune 
+**NayanKumar-ops** build in public
