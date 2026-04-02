@@ -55,4 +55,6 @@ More tools in progress. Watch this space.
 
 ## Author
 
-**NayanKumar-ops** build in public
+**NayanKumar-ops** build in public daily 
+grind
+
