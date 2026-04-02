@@ -10,6 +10,5 @@ Run:
 
 sudo ./bastion/bastion-audit.sh
 
-new update
-coming soon stay tune
+new update is delaying we tell stay tune
 
