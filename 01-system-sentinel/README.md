@@ -48,7 +48,7 @@ sentinel-watchdog/
 
 ---
 
-## Planned / Design-Only Ideas
+# Planned / Design-Only Ideas
 
 - Advanced alerting (email / Slack)
 - Predictive disk usage analysis
@@ -59,7 +59,7 @@ These are documented **as design concepts only**.
 
 ---
 
-## How to Run
+## How to Run it  guide in down
 
 bash
 cd sentinel-watchdog
