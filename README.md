@@ -5,7 +5,7 @@ Built and tested on Rocky Linux (minimal install, no GUI) — real environment, 
 
 ---
 
-## Tools
+# # Tools
 
 ### 01-system-sentinel
 A production-style Linux monitoring tool that observes, logs, and responds to common system issues the way an actual sysadmin would. Focuses on building real visibility into system health and behavior.
