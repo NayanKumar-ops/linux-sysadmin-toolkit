@@ -45,7 +45,7 @@ bash bastion-audit.sh
 
 
 
-## Why I Built This
+# # Why I Built This
 
 I'm self-teaching Linux sysadmin work toward the RHCSA. I built these tools because reading documentation only gets you so far — I wanted to actually practice what production sysadmin work looks like. Every script here runs on a real Rocky Linux minimal environment.
 
