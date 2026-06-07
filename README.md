@@ -19,7 +19,7 @@ Security auditing and hardening scripts for Rocky Linux bastion hosts.
 
 ---
 
-## Environment
+### Environment
 
 | Detail | Value |
 |---|---|
